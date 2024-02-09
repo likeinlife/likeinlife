@@ -23,5 +23,4 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### 📫 How to reach me:
-  - Email: likeinlife@outlook.com
   - Telegram: @lik3lf
